@@ -1,0 +1,68 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #9ac488;
+    align-items: center
+}
+
+.container-icon {
+    font-family: "IntroScriptRH2Base";
+    font-size: 3rem;
+    background-color: #d6e7cf;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-info{
+    color: #3f5532;
+    font-size: 1.5rem;
+    padding-left: 5rem;
+}
+
+.container-icon-and-number{
+    display: flex;
+    align-items: center;
+    width: 30rem;
+    padding: 0rem;
+    justify-content: flex-start;
+    padding-top: 2rem;
+
+}
+
+.container-social-networks{
+    margin-top: 3rem;
+}
+
+.our-social-networks-title{
+    color: #3f5532;
+    font-size: 1.5rem;
+}
+
+.container-icons-networks{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+
+.copyright-container{
+    background-color: #333333;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+
+.copyright-text-container{
+    color: #9ac488;
+    font-size: 1.3rem;
+}

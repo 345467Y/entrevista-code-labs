@@ -1,0 +1,53 @@
+.slider-flowers {
+    height: 30vh;
+}
+
+.container-images {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 30vh;
+}
+
+.font-face-fltb {
+    font-family: "FuturaLTBold";
+    color: white;
+}
+
+.font-face-isrh2b {
+    font-family: "IntroScriptRH2Base";
+    color: white;
+}
+
+.font-face-fltc {
+    font-family: "FuturaLTCondensed";
+    color: white;
+}
+
+.font-face-timesi {
+    font-family: "TimesI";
+    font-style: italic;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.container-carousel {
+    align-items: center;
+}
+
+.container-image {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.carousel-indicators button {
+    background-color: #9ac488 !important;
+    height: 1.5rem !important;
+    width: 1.5rem !important;
+    border-radius: 50% !important;
+}
+
+.carousel-indicators {
+    margin-bottom: 0 !important;
+}

@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "FuturaLTBold";
+  src: local("FuturaLTBold"),
+    url("./fonts/FuturaLT-Bold.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "IntroScriptRH2Base";
+  src: local("IntroScriptRH2Base"),
+    url("./fonts/IntroScriptR-H2Base.otf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "FuturaLTCondensed";
+  src: local("FuturaLTCondensed"),
+    url("./fonts/FuturaLT-Condensed.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "TimesI";
+  src: local("TimesI"),
+    url("./fonts/Times.ttc") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "FuturaLTLight";
+  src: local("FuturaLTLight"),
+    url("./fonts/FuturaLT-Light.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "FuturaLT";
+  src: local("FuturaLT"),
+    url("./fonts/FuturaLT.ttf") format("truetype");
+  font-weight: normal;
+}
+
+
+
